@@ -15,6 +15,7 @@ This project uses machine learning to predict whether a client will subscribe to
 The dataset (`bankmarketing.csv`) contains information about bank marketing campaigns. It includes attributes related to customer demographics, contact information, and campaign outcomes.
 
 ## Installation
+```
 
 1. Clone the repository:
    ```bash
@@ -43,4 +44,4 @@ jupyter notebook final.ipynb
 ## License
 
 This project is licensed under the MIT License.
-```
+
